@@ -1,0 +1,24 @@
+{
+  "name": "note-taker-app",
+  "version": "1.0.0",
+  "description": "Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeanuRivers/Note-Taker-App.git"
+  },
+  "author": "Keanu Rivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeanuRivers/Note-Taker-App/issues"
+  },
+  "homepage": "https://github.com/KeanuRivers/Note-Taker-App#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "node-modules": "^1.0.1"
+  }
+}
