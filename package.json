@@ -19,6 +19,8 @@
   "dependencies": {
     "express": "^4.18.1",
     "fs": "^0.0.1-security",
-    "node-modules": "^1.0.1"
+    "node-modules": "^1.0.1",
+    "path": "^0.12.7",
+    "uuid": "^9.0.0"
   }
 }
